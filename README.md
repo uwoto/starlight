@@ -5,6 +5,7 @@ StarlightはGitHubを利活用したプロボノ・イノベーションです�
 ## Description
 
 プロボノ活動をしたいと考えているＩＴ技術者と、支援が欲しいと考えている方をコーディネーションする機能を有します。
+![About Starlight](/About Startlight.jpg?raw=true "Optional Title")
 
 
 #### プロボノとは？
